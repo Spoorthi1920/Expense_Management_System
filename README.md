@@ -81,7 +81,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Expense-Tracker-App
+  cd Expense_Management_System
 ```
 
 Go to the frontend directory and Install dependencies
